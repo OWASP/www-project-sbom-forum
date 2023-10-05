@@ -24,7 +24,7 @@ In addition, we host a separate subgroup on the following topic also on Fridays:
 
 ## Progress
 
-We are currently working on a) helping the NIST National Vulnerability Database team decide how best to fix software identification problems in the NVD, b) working with the European Network and Information Security Agency (ENISA) to understand SBOMs and design the "green field" vulnerability database mandated by NIS2, and c) convening a group to develop "playbooks" for creating and using VEX documents in the two major formats: CSAF VEX and Cyclone DX VEX.
+We are currently working on a) helping the NIST National Vulnerability Database team decide how best to fix software identification problems in the NVD, b) working with the European Network and Information Security Agency (ENISA) to understand SBOMs and design the "green field" vulnerability database mandated by NIS2, and c) convening a group to develop "playbooks" for creating and using VEX documents in the two major formats: CSAF VEX and CycloneDX VEX.
 
 ## Documents Produced by The SBOM Forum
 
