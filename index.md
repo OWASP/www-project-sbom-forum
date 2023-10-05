@@ -55,5 +55,5 @@ Please get in touch with the team and let us know!
 
 ## Licensing [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](LICENSE)
 
-This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](LICENSE.md). The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
+This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](LICENSE). The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
 
