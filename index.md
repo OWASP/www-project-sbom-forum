@@ -9,7 +9,7 @@ pitch: The SBOM Forum identifies and tries to find solutions to problems that ar
 
 ---
 
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects){:target="_blank"}
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects){:target="_blank"} [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}
 
 ![Project Logo](assets/images/forum_logo_sm.png)
 
@@ -49,7 +49,7 @@ Please get in touch with the team and let us know!
 * [Tony Turner](mailto:tony.turner@owasp.org)
 * [Jeff Williams](mailto:planetlevel@gmail.com)
 
-## Licensing [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}
+## Licensing 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}. The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
 
