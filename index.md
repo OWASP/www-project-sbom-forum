@@ -37,11 +37,6 @@ We are currently working on a) helping the NIST National Vulnerability Database 
 * [How are device SBOMs different from "user-managed" software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit){:target="_blank"}
 * [The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit){:target="_blank"}
 
-Have a new topic for us to explore? New ideas that will advance SBOM adoption or new use cases? Want to work on a tool or key feature?
-
-Feel free to [create an issue](https://github.com/owasp/www-project-sbom-forum/issues){:target="_blank"} or visit [contributing](/www-project-sbom-forum/index#contributing) for details on how to get involved.
-
-
 ## References
 
 Did you write a blog post, magazine article or do a podcast about or mentioning The SBOM Forum? Or maybe you held or joined a conference talk or meetup session, a hacking workshop or public training where this project was mentioned?
