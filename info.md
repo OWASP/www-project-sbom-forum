@@ -1,6 +1,6 @@
 ### SBOM Forum Information
-* [Incubator Project](#)
-* [Type of Project](#)
+* [Incubator Project](/other_projects){:target="_blank"}
+* [Documentation Project](/projects#documentation-projects){:target="_blank"}
 * [Version 0.0.0](#)
 * [Builder](#)
 * [Defender](#)
