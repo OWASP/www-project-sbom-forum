@@ -39,7 +39,8 @@ We are currently working on a) helping the NIST National Vulnerability Database 
 
 Have a new topic for us to explore? New ideas that will advance SBOM adoption or new use cases? Want to work on a tool or key feature?
 
-Feel free to [create an issue](https://github.com/owasp/www-project-sbom-forum/issues){:target="_blank"} or visit [CONTRIBUTING](tab_contributing.md){:target="_blank"} for details on how to get involved.
+Feel free to [create an issue](https://github.com/owasp/www-project-sbom-forum/issues){:target="_blank"} or visit [CONTRIBUTING](/www-project-sbom-forum/index#contributing-link){:target="_blank"} for details on how to get involved.
+
 
 ## References
 
