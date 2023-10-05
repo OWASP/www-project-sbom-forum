@@ -1,12 +1,9 @@
 ---
-
-layout: col-sidebar
-title: OWASP SBOM Forum
+title: Contributing
+layout:  null
+tab: true
+order: 1
 tags: example-tag
-level: 2
-type: 
-pitch: The SBOM Forum identifies and tries to find solutions to problems that are preventing widespread distribution and use of SBOMs by private and public organizations.
-
 ---
 # Contributing Guidelines
 
@@ -23,6 +20,6 @@ To get started with contributing please email tom@tomalrich.com to be added to t
 
 ## Code of Conduct
 
-We ask that all contributors to The SBOM Forum abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct). This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
+We ask that all contributors to The SBOM Forum abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct){:target="_blank"}. This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
 
 Thank you for your interest in contributing. We appreciate your efforts to help us improve and grow SBOM!

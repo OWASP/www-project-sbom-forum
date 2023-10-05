@@ -9,7 +9,7 @@ pitch: The SBOM Forum identifies and tries to find solutions to problems that ar
 
 ---
 
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects){:target="_blank"}
 
 ![Project Logo](assets/images/forum_logo_sm.png)
 
@@ -28,18 +28,18 @@ We are currently working on a) helping the NIST National Vulnerability Database 
 
 ## Documents Produced by The SBOM Forum
 
-[Proposal to Operationalize Component Identification for Vulnerability Management](https://owasp.org/assets/files/posts/A%20Proposal%20to%20Operationalize%20Component%20Identification%20for%20Vulnerability%20Management.pdf)
+[Proposal to Operationalize Component Identification for Vulnerability Management](https://owasp.org/assets/files/posts/A%20Proposal%20to%20Operationalize%20Component%20Identification%20for%20Vulnerability%20Management.pdf){:target="_blank"}
 
 ## Current Documents in Draft 
 **Documents Accessible via Google Docs**
 
-* [Challenges inhibiting SBOM and VEX uptake](https://docs.google.com/document/d/1FBFdSFaMnOq43b4oWV741ETSRb8TQUiqXpHSQywr1MU/edit)
-* [How are device SBOMs different from "user-managed" software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit)
-* [The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit)
+* [Challenges inhibiting SBOM and VEX uptake](https://docs.google.com/document/d/1FBFdSFaMnOq43b4oWV741ETSRb8TQUiqXpHSQywr1MU/edit){:target="_blank"}
+* [How are device SBOMs different from "user-managed" software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit){:target="_blank"}
+* [The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit){:target="_blank"}
 
 Have a new topic for us to explore? New ideas that will advance SBOM adoption or new use cases? Want to work on a tool or key feature?
 
-Feel free to [create an issue](https://github.com/owasp/www-project-sbom-forum/issues) or visit [CONTRIBUTING](CONTRIBUTING.md) for details on how to get involved.
+Feel free to [create an issue](https://github.com/owasp/www-project-sbom-forum/issues){:target="_blank"} or visit [CONTRIBUTING](tab_contributing.md){:target="_blank"} for details on how to get involved.
 
 ## References
 
@@ -55,5 +55,5 @@ Please get in touch with the team and let us know!
 
 ## Licensing [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](LICENSE)
 
-This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](LICENSE). The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
+This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](LICENSE){:target="_blank"}. The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
 
