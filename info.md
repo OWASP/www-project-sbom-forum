@@ -8,12 +8,8 @@
 ### Project Page
 * [The SBOM Forum](/www-project-sbom-forum/index)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
 ### Document Repository
-* [docs](/www-project-sbom-forum/index#documents-produced-by-the-sbom-forum)
+* [Docs](/www-project-sbom-forum/index#documents-produced-by-the-sbom-forum)
 
 ### Other OWASP SBOM Related Projects
 * [CycloneDX](https://owasp.org/www-project-cyclonedx/){:target="_blank"}
