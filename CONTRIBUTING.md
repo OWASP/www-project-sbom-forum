@@ -1,10 +1,16 @@
+# Contributing [![GitHub contributors](https://img.shields.io/github/contributors/owasp/github-template.svg)]
+
 # Contributing Guidelines
 
-Thank you for your interest in contributing to an OWASP project. We welcome all contributions and appreciate your efforts to improve our projects.
+Thank you for your interest in contributing to The SBOM Forum. We welcome all contributions and appreciate your efforts to improve the global SBOM ecosystem.
 
 ## Getting Started
 
-To get started with contributing to any OWASP project, please follow these steps:
+To get started with contributing please email tom@tomalrich.com to be added to the mailing lists we use for coordinating activities. This project has just transitioned to OWASP and we are just getting started with systems, so these guidelines may change.
+
+### Working with OWASP Projects
+
+Additionally, to learn more about getting involved with other OWASP projects:
 
 1. [Join](http://owasp.org/slack/invite) the [OWASP Slack workspace](https://owasp.slack.com) to connect with the OWASP community and get help with any questions you may have.
 
@@ -20,22 +26,8 @@ To get started with contributing to any OWASP project, please follow these steps
 
 7. Submit a pull request with your changes.
 
-## Pull Request Guidelines
-
-Before submitting a pull request, please make sure:
-
-1. Your changes are consistent with the project's goals and objectives.
-
-2. Your changes are well-documented and follow the project's coding standards.
-
-3. Your changes do not introduce new bugs or break existing functionality.
-
-4. Your changes are accompanied by tests, if applicable.
-
-5. Your pull request includes a clear and concise description of the changes you have made.
-
 ## Code of Conduct
 
-We ask that all contributors to OWASP projects abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct). This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
+We ask that all contributors to The SBOM Forum abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct). This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
 
-Thank you for your interest in contributing to an OWASP project. We appreciate your efforts to help us improve and grow our projects.
+Thank you for your interest in contributing. We appreciate your efforts to help us improve and grow SBOM!
