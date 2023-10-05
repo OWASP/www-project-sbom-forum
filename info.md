@@ -3,15 +3,12 @@
 * [Type of Project](#)
 * [Version 0.0.0](#)
 * [Builder](#)
-* [Breaker](#)
+* [Defender](#)
 
 ### Downloads or Social Links
 * [Download](#)
 * [Meetup](#)
 
-### Code Repository
+### Document Repository
 * [repo](#)
-
-### Change Log
-* [changes](#)
 
