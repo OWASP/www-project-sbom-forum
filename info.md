@@ -10,5 +10,5 @@
 * [Meetup](#)
 
 ### Document Repository
-* [docs](/www-project-sbom-forum/index.md/#documents-produced-by-the-sbom-forum)
+* [docs](/www-project-sbom-forum/index#documents-produced-by-the-sbom-forum)
 
