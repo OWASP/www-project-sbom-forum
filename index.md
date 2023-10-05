@@ -9,7 +9,7 @@ pitch: The SBOM Forum identifies and tries to find solutions to problems that ar
 
 ---
 
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects){:target="_blank"} [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/){:target="_blank"} [![license](https://img.shields.io/github/license/owasp/www-project-sbom-forum.svg)](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}
 
 ![Project Logo](assets/images/forum_logo_sm.png)
 
