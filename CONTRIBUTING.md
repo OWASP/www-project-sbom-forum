@@ -1,3 +1,5 @@
+---
+---
 # Contributing Guidelines
 
 Thank you for your interest in contributing to The SBOM Forum. We welcome all contributions and appreciate your efforts to improve the global SBOM ecosystem.
