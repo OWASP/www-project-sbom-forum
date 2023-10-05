@@ -1,3 +1,14 @@
+---
+
+layout: col-sidebar
+title: OWASP SBOM Forum
+tags: example-tag
+level: 2
+type: 
+pitch: A very brief, one-line description of your project
+
+---
+
 #  The SBOM Forum [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/www-project-sbom-forum.svg)](https://github.com/owasp/www-project-sbom-forum/releases/latest)
 
 ![Project Logo](assets/images/forum_logo_sm.png)

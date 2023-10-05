@@ -2,3 +2,5 @@
 /Gemfile.lock
 /favicon.ico
 _site/
+/assets/.DS_STORE
+.DS_STORE
