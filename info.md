@@ -9,7 +9,7 @@
 * [SBOM Forum](/www-project-sbom-forum/index)
 
 ### Document Repository
-* [Docs](/www-project-sbom-forum/index#documents-produced-by-the-sbom-forum)
+* [Docs](/www-project-sbom-forum/index#documents-produced-by-sbom-forum)
 
 ### Other OWASP SBOM Related Projects
 * [CycloneDX](https://owasp.org/www-project-cyclonedx/){:target="_blank"}
