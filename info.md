@@ -6,7 +6,7 @@
 * [Defender](#)
 
 ### Project Page
-* [The SBOM Forum](/www-project-sbom-forum/index)
+* [SBOM Forum](/www-project-sbom-forum/index)
 
 ### Document Repository
 * [Docs](/www-project-sbom-forum/index#documents-produced-by-the-sbom-forum)

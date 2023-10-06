@@ -7,7 +7,7 @@ tags: example-tag
 ---
 # Contributing Guidelines
 
-Thank you for your interest in contributing to The SBOM Forum. We welcome all contributions and appreciate your efforts to improve the global SBOM ecosystem.
+Thank you for your interest in contributing to SBOM Forum. We welcome all contributions and appreciate your efforts to improve the global SBOM ecosystem.
 
 Have a new topic for us to explore? New ideas that will advance SBOM adoption or new use cases? Want to work on a tool or key feature?
 
@@ -24,6 +24,6 @@ To get started with contributing please email tom@tomalrich.com to be added to t
 
 ## Code of Conduct
 
-We ask that all contributors to The SBOM Forum abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct){:target="_blank"}. This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
+We ask that all contributors to SBOM Forum abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct){:target="_blank"}. This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
 
 Thank you for your interest in contributing. We appreciate your efforts to help us improve and grow SBOM!

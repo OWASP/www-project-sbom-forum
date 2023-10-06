@@ -5,7 +5,7 @@ title: OWASP SBOM Forum
 tags: example-tag
 level: 2
 type: 
-pitch: The SBOM Forum identifies and tries to find solutions to problems that are preventing widespread distribution and use of SBOMs by private and public organizations.
+pitch: SBOM Forum identifies and tries to find solutions to problems that are preventing widespread distribution and use of SBOMs by private and public organizations.
 
 ---
 
@@ -13,7 +13,7 @@ pitch: The SBOM Forum identifies and tries to find solutions to problems that ar
 
 ![Project Logo](assets/images/forum_logo_sm.png)
 
-The SBOM Forum identifies and tries to find solutions to problems that are preventing widespread distribution and use of SBOMs by private and public organizations.
+SBOM Forum identifies and tries to find solutions to problems that are preventing widespread distribution and use of SBOMs by private and public organizations.
 
 ## Weekly Meetings
 
@@ -26,7 +26,7 @@ In addition, we host a separate subgroup on the following topic also on Fridays:
 
 We are currently working on a) helping the NIST National Vulnerability Database team decide how best to fix software identification problems in the NVD, b) working with the European Network and Information Security Agency (ENISA) to understand SBOMs and design the "green field" vulnerability database mandated by NIS2, and c) convening a group to develop "playbooks" for creating and using VEX documents in the two major formats: CSAF VEX and CycloneDX VEX.
 
-## Documents Produced by The SBOM Forum
+## Documents Produced by SBOM Forum
 
 [Proposal to Operationalize Component Identification for Vulnerability Management](https://owasp.org/assets/files/posts/A%20Proposal%20to%20Operationalize%20Component%20Identification%20for%20Vulnerability%20Management.pdf){:target="_blank"}
 
@@ -39,7 +39,7 @@ We are currently working on a) helping the NIST National Vulnerability Database 
 
 ## References
 
-Did you write a blog post, magazine article or do a podcast about or mentioning The SBOM Forum? Or maybe you held or joined a conference talk or meetup session, a hacking workshop or public training where this project was mentioned?
+Did you write a blog post, magazine article or do a podcast about or mentioning SBOM Forum? Or maybe you held or joined a conference talk or meetup session, a hacking workshop or public training where this project was mentioned?
 
 Please get in touch with the team and let us know!
 
@@ -51,5 +51,5 @@ Please get in touch with the team and let us know!
 
 ## Licensing 
 
-This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}. The SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
+This program is free software: you can redistribute it and/or modify it under the terms of the [CC-BY-SA 4.0](https://github.com/OWASP/www-project-sbom-forum/blob/main/LICENSE){:target="_blank"}. SBOM Forum and any contributions are Copyright © by Tom Alrich, Tony Turner and Jeff Williams 2023.
 
