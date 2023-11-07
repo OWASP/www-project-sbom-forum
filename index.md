@@ -27,7 +27,7 @@ We are currently working on these documents. Anyone is welcome to comment or sug
 
 ## Subgroups
 
-VEX Playbooks
+**VEX Playbooks**
 
 The purpose of this subgroup is to address the problem that there is no complete VEX specification for either of the two major VEX formats: [CycloneDX](https://cyclonedx.org/capabilities/vex/){:target="_blank"} and [CSAF](https://docs.oasis-open.org/csaf/csaf/v2.0/csd01/csaf-v2.0-csd01.html){:target="_blank"}. Lacking this, there can be no VEX consumer tools that are guaranteed to read documents produced by VEX supplier tools, and vice versa. This group will produce VEX specs in both formats (starting with CSAF) and then develop playbooks that describe how to create and ingest documents in both formats (we also may develop prototype tools in both formats). 
 
@@ -62,7 +62,7 @@ If you would like to make a restricted donation, you can simply click on the “
 
 If you enter an amount over $1,000 (the minimum for a restricted donation), a checkbox will appear which reads “Please restrict this gift for OWASP SBOM Forum…” Please check that box.
 
-Please email tom@tomalrich.com if you would like to discuss donations and what they will be used for.
+Please email <tom@tomalrich.com> if you would like to discuss donations and what they will be used for.
 
 ## References
 
