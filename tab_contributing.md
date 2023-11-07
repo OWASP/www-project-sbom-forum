@@ -20,7 +20,7 @@ We meet every Friday at 1:00 PM ET for the general meetings, all are welcome to 
 
 ## Getting Started
 
-To get started with contributing please email tom@tomalrich.com to be added to the mailing lists we use for coordinating activities. This project has just transitioned to OWASP and we are just getting started with systems, so these guidelines may change.
+To get started with contributing please email <tom@tomalrich.com> to be added to the mailing lists we use for coordinating activities. This project has just transitioned to OWASP and we are just getting started with systems, so these guidelines may change.
 
 ## Code of Conduct
 
