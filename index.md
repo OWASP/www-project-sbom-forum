@@ -17,7 +17,7 @@ The SBOM Forum identifies and tries to find solutions to problems that are preve
 
 ## Weekly Meetings
 
-We meet every Friday at 1:00 PM ET for general meetings. At these meetings, we discuss issues that are currently inhibiting use of SBOMs by private and public sector organizations in general.  All are welcome to join. Email <tom@tomalrich.com> to be added to the mailing list and to receive the meeting invitations. Running meeting notes are here. 
+We meet every Friday at 1:00 PM ET for general meetings. At these meetings, we discuss issues that are currently inhibiting use of SBOMs by private and public sector organizations in general.  All are welcome to join. Email <tom@tomalrich.com> to be added to the mailing list and to receive the meeting invitations. Running meeting notes are [here](https://docs.google.com/document/d/1yqaVzV5U33Lbhb7bANWPIxSwoU3F_xLrCt05SU5yTkE/edit){:target="_blank"}. 
 
 We are currently working on these documents. Anyone is welcome to comment or suggest changes to them:
 
