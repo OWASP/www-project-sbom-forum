@@ -21,9 +21,9 @@ We meet every Friday at 1:00 PM ET for general meetings. At these meetings, we d
 
 We are currently working on these documents. Anyone is welcome to comment or suggest changes to them:
 
-•	[Challenges inhibiting SBOM and VEX uptake](https://docs.google.com/document/d/1FBFdSFaMnOq43b4oWV741ETSRb8TQUiqXpHSQywr1MU/edit){:target="_blank"}
-•	[How are device SBOMs different from “user-managed” software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit){:target="_blank"}
-•	[The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit){:target="_blank"}
+* [Challenges inhibiting SBOM and VEX uptake](https://docs.google.com/document/d/1FBFdSFaMnOq43b4oWV741ETSRb8TQUiqXpHSQywr1MU/edit){:target="_blank"}
+* [How are device SBOMs different from “user-managed” software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit){:target="_blank"}
+* [The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit){:target="_blank"}
 
 ## Subgroups
 
