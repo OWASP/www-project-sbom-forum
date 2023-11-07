@@ -49,14 +49,6 @@ The document we are currently working on is below. All are welcome to comment an
 
 [Proposal to Operationalize Component Identification for Vulnerability Management](https://owasp.org/assets/files/posts/A%20Proposal%20to%20Operationalize%20Component%20Identification%20for%20Vulnerability%20Management.pdf){:target="_blank"}
 
-## Current Documents in Draft 
-**Documents Accessible via Google Docs**
-
-* [Challenges inhibiting SBOM and VEX uptake](https://docs.google.com/document/d/1FBFdSFaMnOq43b4oWV741ETSRb8TQUiqXpHSQywr1MU/edit){:target="_blank"}
-* [How are device SBOMs different from "user-managed" software SBOMs?](https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit){:target="_blank"}
-* [The problem of forked components](https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit){:target="_blank"}
-
-
 ## Supporting the SBOM Forum
 
 There are three ways you can support our work. All three are appreciated!
