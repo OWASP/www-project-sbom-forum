@@ -1,10 +1,10 @@
 ---
 title: Meetings
-displaytext: Our Meetings
+displaytext: Meetings
 layout:  null
 tab: true
 order: 1
-tags: bom sbom scrm transparency c-scrm supply-chain nvd cve purl
+tags: example-tag
 ---
 
 ## Meetings

@@ -1,10 +1,10 @@
 ---
 title: Contributing
-displaytext: Contributing to SBOM Forum
+displaytext: Contributing
 layout:  null
 tab: true
 order: 2
-tags: bom sbom scrm transparency c-scrm supply-chain nvd cve purl
+tags: example-tag
 ---
 # Contributing Guidelines
 

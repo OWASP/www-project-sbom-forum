@@ -1,6 +1,6 @@
 ---
 title: Supporters
-displaytext: Our Supporters
+displaytext: Supporters
 layout:  null
 tab: true
 order: 3
