@@ -4,7 +4,7 @@ displaytext: Our Supporters
 layout:  null
 tab: true
 order: 3
-tags: bom sbom scrm transparency c-scrm supply-chain nvd cve purl
+tags: example-tag
 ---
 
 The SBOM Forum is the result of a global community of SBOM Advocates.
