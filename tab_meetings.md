@@ -15,3 +15,4 @@ Email [Tom Alrich](mailto:tom@tomalrich.com) to be added
 
 * General Meeting - Every Friday at 1:00 PM ET
 * VEX Playbooks - Every Friday at 11:00 AM ET
+* Vulnerability Database Working group = every Tuesday at 11:00 AM ET

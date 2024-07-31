@@ -3,7 +3,7 @@ title: Contributing
 displaytext: Contributing
 layout:  null
 tab: true
-order: 2
+order: 3
 tags: example-tag
 ---
 # Contributing Guidelines

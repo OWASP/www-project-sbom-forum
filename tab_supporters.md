@@ -3,7 +3,7 @@ title: Supporters
 displaytext: Supporters
 layout:  null
 tab: true
-order: 3
+order: 4
 tags: example-tag
 ---
 
@@ -21,6 +21,20 @@ But we have also been helped by many organizations, either financially or by enc
 
    <div class="logo-card-container"><div class="logo-card"><div class="logo-card-body">
     <a href="https://www.fortressinfosec.com/"><img class="sbom-forum-supporter" src="assets/images/fortress.svg" alt="Fortress Information Security"></a>
+  </div></div></div>
+
+ </div>
+
+**Supporters**
+
+<div class="logo-cards">
+
+   <div class="logo-card-container"><div class="logo-card"><div class="logo-card-body">
+    <a href="https://soos.io/"><img class="sbom-forum-supporter" src="assets/images/soos_logo.svg" alt="SOOS"></a>
+  </div></div></div>
+
+  <div class="logo-card-container"><div class="logo-card"><div class="logo-card-body">
+    <a href="https://www.medcrypt.com/"><img class="sbom-forum-supporter" src="assets/images/medcrypt_black.svg" alt="Medcrypt"></a>
   </div></div></div>
 
  </div>
