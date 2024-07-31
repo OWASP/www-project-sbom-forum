@@ -1,6 +1,6 @@
 ---
-title: Vulnerability Database Working Group
-displaytext: Vulnerability Database Working Group
+title: VDBWG
+displaytext: VDBWG
 layout:  null
 tab: true
 order: 2
