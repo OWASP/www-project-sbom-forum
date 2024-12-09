@@ -48,7 +48,7 @@ The document we are currently working on is below. All are welcome to comment an
 ## Documents Produced by SBOM Forum
 
 - [Proposal to Operationalize Component Identification for Vulnerability Management](https://owasp.org/assets/files/posts/A%20Proposal%20to%20Operationalize%20Component%20Identification%20for%20Vulnerability%20Management.pdf){:target="_blank"}
-- [Purl needs to identify proprietary software v1.0.pdf](https://raw.githubusercontent.com/OWASP/www-project-sbom-forum/main/assets/Purl%20needs%20to%20identify%20proprietary%20software%20v1.0.pdf){:target="_blank"}
+- [Purl needs to identify commercial software v3.0.pdf](https://raw.githubusercontent.com/OWASP/www-project-sbom-forum/main/assets/Purl%20needs%20to%20identify%20commercial%20software%20v3.0.pdf){:target="_blank"}
 
 ## References
 
